@@ -1,7 +1,7 @@
 # US-Federal-Reserve-and VIX Index influence-on-market-SP500
 Group members: Rosh Panesar, Deep Bhojak, and Harmish Panchal. 
 
-Each member has uploaded a portion of the project. Please retrieve each member's github URL. This URL includes the README.md file with the thesis/conclusions and the PPT used in the presentation.
+This URL includes the README.md file with the thesis/conclusions and the PPT used in the presentation and the jupyter notebooks used to code and run our analysis.
 
 Our goal is to create a quant model based on a factor that has a strong positive or negative relationship with the U.S. equity market. Based on the relationship, we can make a buy or sell recommendation on the S&P500 Index. The instrument to buy or sell is the SPY ETF which is an ETF based on the S&P500 Index.
 
