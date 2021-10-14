@@ -1,4 +1,4 @@
-# US-Federal-Reserve-influence-on-market-SP500
+# US-Federal-Reserve-and VIX Index influence-on-market-SP500
 Group members: Rosh Panesar, Deep Bhojak, and Harmish Panchal. 
 
 Each member has uploaded a portion of the project. Please retrieve each member's github URL. This URL includes the README.md file with the thesis/conclusions and the PPT used in the presentation.
